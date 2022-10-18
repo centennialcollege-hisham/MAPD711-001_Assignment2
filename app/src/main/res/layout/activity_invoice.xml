@@ -140,6 +140,20 @@
             android:text="@{`Price : ` + model.price}"
             android:textSize="15sp"
             tools:text="Price : " />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="@{`Storage : ` + model.storage}"
+            android:textSize="15sp"
+            tools:text="Storage : " />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="@{`Color : ` + model.color}"
+            android:textSize="15sp"
+            tools:text="Color : " />
 
 
     </LinearLayout>
