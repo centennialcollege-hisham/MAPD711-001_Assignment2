@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">Assignment2</string>
+
+
+    <string name="choose_the_color">Choose the color</string>
+    <string name="_256_gb">256 GB</string>
+    <string name="_128_gb">128 GB</string>
+    <string name="_64_gb">64 GB</string>
+    <string name="choose_the_storage">choose the Storage</string>
+    <string name="model">model</string>
+    <string name="price">price</string>
+    <string name="desc_logo">A smartphone is a cellular telephone with an integrated computer and other features not originally associated with telephones such as an operating system, web browsing, and the ability to run software applications.</string>
+    <string name="select_storage">Select Storage</string>
+    <string name="select_color">Select Color</string>
+    <string-array name="phone_color">
+        <item>blue</item>
+        <item>black</item>
+        <item>gold</item>
+        <item>silver</item>
+    </string-array>
 </resources>
